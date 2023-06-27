@@ -1,0 +1,7 @@
+Classifier,Mean Rank
+AdaBoost,1.417
+Bagging,2.083
+SMOTE_Bag,3.25
+SPE,3.833
+BalancedBag,4.75
+RUSBoost,5.667
